@@ -2,8 +2,9 @@ user-agent: *
 disallow: /Tests/
 disallow: /reports/
 disallow: /_pages/
-disallow: /apropos/
-disallow: /videos/
+disallow: /apropos/index.html
+disallow: /apropos.html
+disallow: /videos/list.html
 disallow: /2019/08/01/Support-Accessoires-USB-iOS-12.html
 disallow: /2020/04/03/Support-Accessoires-USB-iPadOS-13.3.html
 disallow: /2020/04/03/nouveaute-iPadOS13.3-Les-coins-actifs.html
