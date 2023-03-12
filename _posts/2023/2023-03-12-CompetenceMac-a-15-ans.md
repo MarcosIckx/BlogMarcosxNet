@@ -3,7 +3,7 @@ layout: post
 title: "Compétence Mac a aujourdhui 15 ans"
 description: Il y a 15 ans sortait en kioske le numéro 1 de Compétence Mac
 date: 2023-03-12
-twitterLink: https://twitter.com/marcosickx/status/1607775049876144128
+twitterLink: https://twitter.com/marcosickx/status/1634805688005279745
 image:
   url: /img/posts/2023/03/12/15-ans-competence-mac/Couverture-CompetenceMac-1.jpg
 tags: [Compétence Mac, Léopard ]
