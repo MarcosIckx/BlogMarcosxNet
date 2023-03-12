@@ -23,6 +23,9 @@ images:
   img-4:
     url: CM33-48.png
     alt: Miniatures des couvertures des numéros 33 à 48
+  img-5:
+    url: Vignettes-1-80.png
+    alt: Miniatures des couvertures des numéros 1 à 80
 links:
   interview:
     url: https://blog.marcosx.net/2009/04/02/competence-mac-deja-1-an-interview-de-david-bosman/
@@ -36,9 +39,7 @@ Il y a 15 ans, le 12 mars 2008, sortait en kiosque le tout premier numéro de @C
 
 Depuis lors, pas mal de numéros ont été publiés, puisqu´en avril sort le numéro 80.
 
-{% include picture.html img=page.images.img-2 %}
-{% include picture.html img=page.images.img-3 %}
-{% include picture.html img=page.images.img-4 %}
+{% include picture.html img=page.images.img-5 %}
 
 Et cela, sans compter les Hors-Séries, les livres ePub, ...
 
@@ -48,3 +49,8 @@ Je vous propose de découvrir ou redécouvrir l´interview qui avait été fait 
 
 {% include link.html link=page.links.interview %}
 
+{% include picture.html img=page.images.img-2 %}
+
+{% include picture.html img=page.images.img-3 %}
+
+{% include picture.html img=page.images.img-4 %}
