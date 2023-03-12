@@ -2,6 +2,11 @@
 title: Guillaume Gete nous prépare un livre pour prendre en main Léopard
 date: 2007-10-18
 category: Livres
+images:
+  img-1:
+    url: http://marcosx.net/blogs/wp-content/uploads/2009/09/Leopard-Efficace.jpg
+    alt: Leopard Efficace de Guillaume Gete
+    title: couverture du livre Mac OS X Leopard Efficace de Guillaume Gete 
 ---
 
 Guillaume Gete vient d’annoncer sur son blog qu’il est en train de rédiger un livre consacré à Leopard : 
@@ -18,3 +23,5 @@ J’ai beaucoup aimé la réflexion qu’il a fait dans ce même billet :
 
 
 Son livre devrait être disponible au plus tard début 2008.
+
+{% include picture.html img=page.images.img-1 %}
