@@ -2,11 +2,23 @@
 date: 2009-04-02
 category: Interviews
 title: "Compétence Mac : déjà 1 an. Interview de David Bosman"
+twitterLink: https://twitter.com/marcosickx/status/1634805688005279745
+image:
+  url: /img/posts/2023/03/12/15-ans-competence-mac/Couverture-CompetenceMac-1.jpg
+pictures_base_url: /img/posts/2023/03/12/15-ans-competence-mac/
+images:
+  img-1:
+    url: Couverture-CompetenceMac-1.jpg
+    alt: "Couverture du numéro 1 de Compétence Mac"
+    title: "Couverture du numéro 1 de Compétence Mac"
+
 ---
 
 Il était une fois, en Mars 2008.
 
 Un nouveau magazine apparaissait dans les linéaires des librairies : Compétence Mac, alors que, quelque temps auparavant, la communauté Mac venait de perdre un grand magazine, j’ai nommé Univers Mac.
+
+{% include picture.html img=page.images.img-1 %}
 
 Certains étaient ravis, d’autres n’y croyaient pas. Mais voilà que un peu plus d’un an après, le numéro 6 est disponible en librairie.
 
