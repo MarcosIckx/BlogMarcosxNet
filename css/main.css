@@ -416,4 +416,9 @@ a.footnote:after {
 	font-family: 'Helvetica', 'Arial', 'sans-serif'; 
 }
 
+.apple {
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+	
+}
 
