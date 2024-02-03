@@ -11,8 +11,8 @@ pictures_base_url: /img/posts/2024/02/03/Apple-Vision-Pro/
 images:
   img-1:
     url: Apple-Vision-Pro.jpg
-    alt: "Image Lancement Apple Vision Pro à l'Apple Cube"
-    title: "Image Lancement Apple Vision Pro à l'Apple Cube"
+    alt: "Image Lancement Apple Vision Pro à l'Apple Cube (Greg Joswiak)"
+    title: "Image Lancement Apple Vision Pro à l'Apple Cube (Greg Joswiak)"
   img-2:
     url: 
     alt: ""
