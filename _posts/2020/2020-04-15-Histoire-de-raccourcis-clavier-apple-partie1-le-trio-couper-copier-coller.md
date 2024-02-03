@@ -45,7 +45,7 @@ otherLinks:
 J’avais lu sur MacG au début de cette année 2020 {% include link.html link=page.liens.article-touche-cmd %}, retraçant l’histoire de la touche ⌘ 
 aussi appelée la touche commande, 
 ou touche pomme car à l’époque du Lisa, 
-c’était le symbole  qui figurait sur cette touche, 
+c’était le symbole {% include apple.html  %} qui figurait sur cette touche, 
 et non le symbole ⌘.
 
 Et plus ou moins à la même époque, Jean-Baptiste Leheup, 
