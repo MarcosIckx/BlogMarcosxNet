@@ -7,14 +7,20 @@ actuel:
     id: actuel
     title: les derniers billets de Marcos Ickx
     url: /
-    previous: 2023
+    previous: 2024
     ignore: true
+2024:
+    id: 2024
+    title: Année 2024
+    url: /2024/
+    previous: 2023
+    next: actuel
 2023:
     id: 2023
     title: Année 2023
     url: /2023/
     previous: 2022
-    next: actuel
+    next: 2024
 2022:
     id: 2022
     title: Année 2022
