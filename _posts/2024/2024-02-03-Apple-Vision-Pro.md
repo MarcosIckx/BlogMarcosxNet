@@ -36,16 +36,22 @@ links:
 
 Lorsque l'iPhone fut disponible à la vente en 2007, 
 je me souviens avoir passé une bonne partie de la nuit 
-à regarder des videos en live et avoir l'impression de vivre un moment historique
-en voyant toutes ces personnes apporter leur temoignzges.
+à regarder des vidéos en live et avoir eu l'impression de vivre un
+moment historique en voyant toutes ces personnes apporter leur témoignages.
 
 Cette nuit, j'ai eu exactement la même sensation avec le lancement de l'Apple Vision Pro.
 
-j'ai vraiment eu l'impression de vivre un moment historique où il y aura un avant et un après Apple Vision Pro.
+j'ai vraiment eu l'impression de vivre un moment historique et que, comme poir l'iPhone, il y aura eu un avant et un après Apple Vision Pro.
 
 Pour l'iPhone, tout le monde sera d'accord pour confirmer aujourd'hui que l'iPhone a bouleversé le monde des smartphones.
 
-Pour l'Apple Vision Pro, il faudra attendre un petit peu avant de savoir s'il va bouleverser le monde des casques VR/AR, 
+Pour l'Apple Vision Pro, c'est encore trop tôt pour le dire.
+
+Il faudra attendre un petit peu avant de savoir s'il va bouleverser le monde des casques VR/AR, 
 permettant à ce marché d'arriver au final dans les foyers de monsieur et madame tout le monde.
 
+Mais l'engouement est là. Les retours disent très souvent que c'est bluffant. 
+Et rien que cela, c'est déjà fort encourageant pour le futur du Spatial Computing.
+
+Bravo Apple pour avoir encore une fois réussi le lancement d'un nouveau produit qui, je le pense, va encore une fois révolutionner la façon dont on va consommer certaines choses, comme les films, par exemple.
  
